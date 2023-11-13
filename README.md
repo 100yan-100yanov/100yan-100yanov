@@ -2,4 +2,5 @@
 I’m currently learning Java 💻.           
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=100yan-100yanov)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100yan-100yanov&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=100yan-100yanov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
