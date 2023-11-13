@@ -1,5 +1,5 @@
 ### Hello there 👋, I'm Stoyan a new addition to the Java Development community.
-I’m currently learning Java 💻.           
+Currently learning Java 💻.           
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100yan-100yanov&theme=onedark)
