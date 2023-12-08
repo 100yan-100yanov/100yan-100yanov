@@ -12,3 +12,4 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=100yan-100yanov&theme=onedark" alt="100yan-100yanov" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=100yan-100yanov&theme=onedark" alt="100yan-100yanov" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=100yan-100yanov&show_icons=true&locale=en&layout=compact" alt="100yan-100yanov" /></p>
